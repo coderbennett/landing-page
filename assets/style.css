@@ -1,0 +1,56 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #FCF6F5FF;
+    margin: 0;
+}
+
+.hero {
+    height: 617px;
+    width: 925px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    float: left;
+    margin-left: 16px;
+}
+
+h2 {
+    margin-left: 16px;
+}
+
+header {
+    position: fixed;
+    display: inline-block;
+    background-color:#EDC2D8FF;
+    z-index: 99;
+    width: 100%;
+}
+
+nav {
+    float: right;
+    margin-top: 30px;
+    font-size: large;
+    margin-right: 16px;
+}
+
+figcaption {
+    position: relative;
+    bottom: 0px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+    margin-left: 16px;
+}
+
+footer {
+    background-color: #8ABAD3FF;
+}
