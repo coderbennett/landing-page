@@ -31,6 +31,7 @@ header {
     background-color:#EDC2D8FF;
     z-index: 99;
     width: 100%;
+    margin-top: -16px;
 }
 
 nav {
