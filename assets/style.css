@@ -21,7 +21,8 @@ h1 {
 }
 
 h2 {
-    margin-left: 16px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 header {
@@ -49,8 +50,7 @@ figcaption {
 
 form {
     margin-left: 16px;
-}
-
-footer {
     background-color: #8ABAD3FF;
+    width: 30%;
+    margin: 0 auto;
 }
